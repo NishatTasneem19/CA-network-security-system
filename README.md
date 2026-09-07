@@ -19,4 +19,4 @@ See [full report](./report.pdf) for detailed setup steps, configuration,
 and test results.
 
 ## Tools & Technologies
-Linux, Apache2, BIND9, OpenSSL, OpenSSH, Nmap, Wireshark, Postman
+Linux, Apache2, BIND9, OpenSSL, OpenSSH, Nmap, Wireshark
