@@ -15,7 +15,7 @@ with a custom Certificate Authority (CA) system.
   and controlled IDS testing; validated the web app's APIs using Postman
 
 ## Report
-See [full report](./report.pdf) for detailed setup steps, configuration, 
+See [full report](./Project_Report_CyberSecurity.pdf) for detailed setup steps, configuration, 
 and test results.
 
 ## Tools & Technologies
